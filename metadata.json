@@ -1,0 +1,5 @@
+{
+  "name": "VisionMatch: Face Shape & Glasses Guide",
+  "description": "Analyze your face shape using AI and get personalized glasses recommendations with virtual try-on.",
+  "requestFramePermissions": ["camera"]
+}
